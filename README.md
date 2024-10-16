@@ -33,4 +33,23 @@ Para a primeira entrega da ponderada, foi necessário conectar o Arduino Uno ao 
    <sup>Fonte: Material produzido pelos autores (2024)</sup>
 </div>
 
+## Entrega 2
 
+Para a segunda entrega da ponderada, foi necessário criar um circuito pisca-pisca de leds externos no Tinkercad.
+
+Para a criação do circuito, foram necessários:
+- Arduino Uno,
+- Leds externos,
+- Resistores,
+- Fios jumper.
+
+<div align="center">
+   <sub> Conexão do Arduino Uno ao computador </sub> <br>
+
+  <img src="assets/Pisca-pisca.png" height="80%">
+   
+   <sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+
+É possível acessar o circuito diretamente no Tinkercad através do seguinte link: 
+[Projeto no Tinkercad](https://www.tinkercad.com/things/3XIDnIbKUql/editel?sharecode=RKbRP9iHrteQ3DBW75hSTp2ZGixJoLg0Xv9SsljELb0)
