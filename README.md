@@ -9,7 +9,28 @@ Esta atividade ponderada foi realizada pela aluna Kethlen Martins da Silva (atel
 
 Para a primeira entrega da ponderada, foi necessário conectar o Arduino Uno ao computador e utilizar a Arduino IDE para controlar o led interno.
 
+<div align="center">
+   <sub> Conexão do Arduino Uno ao computador </sub> <br>
 
+  <img src="assets/ligacao_arduino.jpeg" height="80%">
+   
+   <sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
 
-https://github.com/user-attachments/assets/9383b351-42d6-467c-b97a-937e19bdfa3c
+<div align="center">
+   <sub> Código utilizado </sub> <br>
+
+  <img src="assets/codigo_ide.png" height="80%">
+   
+   <sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+
+<div align="center">
+   <sub> Vídeo demonstrativo </sub> <br>
+
+  https://github.com/user-attachments/assets/9383b351-42d6-467c-b97a-937e19bdfa3c
+   
+   <sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+
 
